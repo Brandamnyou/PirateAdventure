@@ -21,6 +21,23 @@
 		4D1857AB18CA9C4E00829232 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D18578D18CA9C4E00829232 /* UIKit.framework */; };
 		4D1857B318CA9C4E00829232 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857B118CA9C4E00829232 /* InfoPlist.strings */; };
 		4D1857B518CA9C4E00829232 /* Pirate_AdventureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857B418CA9C4E00829232 /* Pirate_AdventureTests.m */; };
+		4D1857C118CAA43000829232 /* CCTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857C018CAA43000829232 /* CCTile.m */; };
+		4D1857C418CAA4E000829232 /* CCFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857C318CAA4E000829232 /* CCFactory.m */; };
+		4D1857D418CB5EC200829232 /* BraydenBath.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857C818CB5EC100829232 /* BraydenBath.JPG */; };
+		4D1857D718CB5EC200829232 /* BraydenDominican1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857CB18CB5EC100829232 /* BraydenDominican1.JPG */; };
+		4D1857D818CB5EC200829232 /* BraydenHolloween.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857CC18CB5EC100829232 /* BraydenHolloween.JPG */; };
+		4D1857DB18CB5EC200829232 /* BraydenSleep.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857CF18CB5EC100829232 /* BraydenSleep.JPG */; };
+		4D1857DC18CB5EC200829232 /* BraydenThreeDays.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857D018CB5EC100829232 /* BraydenThreeDays.jpg */; };
+		4D1857DD18CB5EC200829232 /* BraydenUltrasound.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857D118CB5EC100829232 /* BraydenUltrasound.JPG */; };
+		4D1857DE18CB5EC200829232 /* BraydenWashingMachine.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857D218CB5EC100829232 /* BraydenWashingMachine.JPG */; };
+		4D1857E018CB627000829232 /* BraydenBorn.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857DF18CB627000829232 /* BraydenBorn.JPG */; };
+		4D1857E218CB630800829232 /* BraydenBackyard.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857E118CB630800829232 /* BraydenBackyard.JPG */; };
+		4D1857E418CB63E000829232 /* BraydenPopPop.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857E318CB63E000829232 /* BraydenPopPop.JPG */; };
+		4D1857E618CB63E700829232 /* BraydenDaddyFarm.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857E518CB63E700829232 /* BraydenDaddyFarm.JPG */; };
+		4D1857E818CB63ED00829232 /* BraydenMommyFarm.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4D1857E718CB63ED00829232 /* BraydenMommyFarm.JPG */; };
+		4D1857EB18CB96AA00829232 /* CCWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857EA18CB96AA00829232 /* CCWeapon.m */; };
+		4D1857EE18CB96ED00829232 /* CCArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857ED18CB96ED00829232 /* CCArmor.m */; };
+		4D1857F118CB977800829232 /* CCCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1857F018CB977800829232 /* CCCharacter.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +70,28 @@
 		4D1857B018CA9C4E00829232 /* Pirate AdventureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pirate AdventureTests-Info.plist"; sourceTree = "<group>"; };
 		4D1857B218CA9C4E00829232 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4D1857B418CA9C4E00829232 /* Pirate_AdventureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pirate_AdventureTests.m; sourceTree = "<group>"; };
+		4D1857BF18CAA43000829232 /* CCTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTile.h; sourceTree = "<group>"; };
+		4D1857C018CAA43000829232 /* CCTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTile.m; sourceTree = "<group>"; };
+		4D1857C218CAA4E000829232 /* CCFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCFactory.h; sourceTree = "<group>"; };
+		4D1857C318CAA4E000829232 /* CCFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCFactory.m; sourceTree = "<group>"; };
+		4D1857C818CB5EC100829232 /* BraydenBath.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenBath.JPG; sourceTree = "<group>"; };
+		4D1857CB18CB5EC100829232 /* BraydenDominican1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenDominican1.JPG; sourceTree = "<group>"; };
+		4D1857CC18CB5EC100829232 /* BraydenHolloween.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenHolloween.JPG; sourceTree = "<group>"; };
+		4D1857CF18CB5EC100829232 /* BraydenSleep.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenSleep.JPG; sourceTree = "<group>"; };
+		4D1857D018CB5EC100829232 /* BraydenThreeDays.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenThreeDays.jpg; sourceTree = "<group>"; };
+		4D1857D118CB5EC100829232 /* BraydenUltrasound.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenUltrasound.JPG; sourceTree = "<group>"; };
+		4D1857D218CB5EC100829232 /* BraydenWashingMachine.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenWashingMachine.JPG; sourceTree = "<group>"; };
+		4D1857DF18CB627000829232 /* BraydenBorn.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenBorn.JPG; sourceTree = "<group>"; };
+		4D1857E118CB630800829232 /* BraydenBackyard.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenBackyard.JPG; sourceTree = "<group>"; };
+		4D1857E318CB63E000829232 /* BraydenPopPop.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenPopPop.JPG; sourceTree = "<group>"; };
+		4D1857E518CB63E700829232 /* BraydenDaddyFarm.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenDaddyFarm.JPG; sourceTree = "<group>"; };
+		4D1857E718CB63ED00829232 /* BraydenMommyFarm.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BraydenMommyFarm.JPG; sourceTree = "<group>"; };
+		4D1857E918CB96AA00829232 /* CCWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCWeapon.h; sourceTree = "<group>"; };
+		4D1857EA18CB96AA00829232 /* CCWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCWeapon.m; sourceTree = "<group>"; };
+		4D1857EC18CB96ED00829232 /* CCArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCArmor.h; sourceTree = "<group>"; };
+		4D1857ED18CB96ED00829232 /* CCArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCArmor.m; sourceTree = "<group>"; };
+		4D1857EF18CB977800829232 /* CCCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCCharacter.h; sourceTree = "<group>"; };
+		4D1857F018CB977800829232 /* CCCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCCharacter.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +156,7 @@
 				4D18579B18CA9C4E00829232 /* Main.storyboard */,
 				4D18579E18CA9C4E00829232 /* CCViewController.h */,
 				4D18579F18CA9C4E00829232 /* CCViewController.m */,
+				4D1857BE18CAA40B00829232 /* Model */,
 				4D1857A118CA9C4E00829232 /* Images.xcassets */,
 				4D18579018CA9C4E00829232 /* Supporting Files */,
 			);
@@ -126,6 +166,7 @@
 		4D18579018CA9C4E00829232 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4D1857C618CB5EA700829232 /* Images For Background */,
 				4D18579118CA9C4E00829232 /* Pirate Adventure-Info.plist */,
 				4D18579218CA9C4E00829232 /* InfoPlist.strings */,
 				4D18579518CA9C4E00829232 /* main.m */,
@@ -150,6 +191,50 @@
 				4D1857B118CA9C4E00829232 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4D1857BE18CAA40B00829232 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4D1857C518CAA4EE00829232 /* Factory */,
+				4D1857BF18CAA43000829232 /* CCTile.h */,
+				4D1857C018CAA43000829232 /* CCTile.m */,
+				4D1857EF18CB977800829232 /* CCCharacter.h */,
+				4D1857F018CB977800829232 /* CCCharacter.m */,
+				4D1857EC18CB96ED00829232 /* CCArmor.h */,
+				4D1857ED18CB96ED00829232 /* CCArmor.m */,
+				4D1857E918CB96AA00829232 /* CCWeapon.h */,
+				4D1857EA18CB96AA00829232 /* CCWeapon.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		4D1857C518CAA4EE00829232 /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				4D1857C218CAA4E000829232 /* CCFactory.h */,
+				4D1857C318CAA4E000829232 /* CCFactory.m */,
+			);
+			name = Factory;
+			sourceTree = "<group>";
+		};
+		4D1857C618CB5EA700829232 /* Images For Background */ = {
+			isa = PBXGroup;
+			children = (
+				4D1857E118CB630800829232 /* BraydenBackyard.JPG */,
+				4D1857DF18CB627000829232 /* BraydenBorn.JPG */,
+				4D1857C818CB5EC100829232 /* BraydenBath.JPG */,
+				4D1857E518CB63E700829232 /* BraydenDaddyFarm.JPG */,
+				4D1857E318CB63E000829232 /* BraydenPopPop.JPG */,
+				4D1857E718CB63ED00829232 /* BraydenMommyFarm.JPG */,
+				4D1857CB18CB5EC100829232 /* BraydenDominican1.JPG */,
+				4D1857CC18CB5EC100829232 /* BraydenHolloween.JPG */,
+				4D1857CF18CB5EC100829232 /* BraydenSleep.JPG */,
+				4D1857D018CB5EC100829232 /* BraydenThreeDays.jpg */,
+				4D1857D118CB5EC100829232 /* BraydenUltrasound.JPG */,
+				4D1857D218CB5EC100829232 /* BraydenWashingMachine.JPG */,
+			);
+			name = "Images For Background";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +314,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D1857E018CB627000829232 /* BraydenBorn.JPG in Resources */,
+				4D1857DC18CB5EC200829232 /* BraydenThreeDays.jpg in Resources */,
+				4D1857D818CB5EC200829232 /* BraydenHolloween.JPG in Resources */,
+				4D1857DD18CB5EC200829232 /* BraydenUltrasound.JPG in Resources */,
+				4D1857DB18CB5EC200829232 /* BraydenSleep.JPG in Resources */,
+				4D1857DE18CB5EC200829232 /* BraydenWashingMachine.JPG in Resources */,
+				4D1857E218CB630800829232 /* BraydenBackyard.JPG in Resources */,
+				4D1857D418CB5EC200829232 /* BraydenBath.JPG in Resources */,
+				4D1857E818CB63ED00829232 /* BraydenMommyFarm.JPG in Resources */,
 				4D1857A218CA9C4E00829232 /* Images.xcassets in Resources */,
+				4D1857D718CB5EC200829232 /* BraydenDominican1.JPG in Resources */,
+				4D1857E418CB63E000829232 /* BraydenPopPop.JPG in Resources */,
 				4D18579418CA9C4E00829232 /* InfoPlist.strings in Resources */,
+				4D1857E618CB63E700829232 /* BraydenDaddyFarm.JPG in Resources */,
 				4D18579D18CA9C4E00829232 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,8 +348,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D18579A18CA9C4E00829232 /* CCAppDelegate.m in Sources */,
+				4D1857C418CAA4E000829232 /* CCFactory.m in Sources */,
 				4D18579618CA9C4E00829232 /* main.m in Sources */,
+				4D1857F118CB977800829232 /* CCCharacter.m in Sources */,
 				4D1857A018CA9C4E00829232 /* CCViewController.m in Sources */,
+				4D1857C118CAA43000829232 /* CCTile.m in Sources */,
+				4D1857EE18CB96ED00829232 /* CCArmor.m in Sources */,
+				4D1857EB18CB96AA00829232 /* CCWeapon.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
